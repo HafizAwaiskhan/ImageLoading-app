@@ -1,4 +1,4 @@
-# 📸 Image Loading App<br />
+# 📸 Image Loading App (XML)<br />
 A simple Android application that fetches and displays images from an API, with pagination and favorites functionality.
 
 # 🚀 Features <br />
